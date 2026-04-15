@@ -1,50 +1,35 @@
-# Welcome to your Expo app 👋
+<div align="center">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# 🐱 YOLTube
 
-## Get started
+> **YOLOv8 AI**와 **React Native**를 결합하여 유튜브 영상속 사람을 실시간으로 탐지하고 시각화하는 프로젝트입니다.
 
-1. Install dependencies
+</div>
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+### 🚀 1. 실행 방법 (Quick Start)
 
-   ```bash
-   npx expo start
-   ```
+<img src="https://img.shields.io/static/v1?label=&message=실행%20방법&color=333ab2&style=flat-square&logo=render&logoColor=white" />
 
-In the output, you'll find options to open the app in a
+1. **프로젝트 폴더**로 이동합니다.
+2. `run_yoltube.bat` 파일을 **마우스 오른쪽 버튼으로 클릭하여 실행**하거나 더블 클릭합니다.
+3. 자동으로 필요한 패키지가 설치되고 **웹 브라우저가 열리며** 서비스가 시작됩니다.
+4. 화면 중앙의 입력창에 **YouTube 영상 링크**를 넣고 '지금 영상 분석하기' 버튼을 누르시면 됩니다.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### 📌 주의 사항
 
-## Get a fresh project
+<img src="https://img.shields.io/static/v1?label=&message=주의%20사항&color=ff4b4b&style=flat-square&logo=alert&logoColor=white" />
 
-When you're ready, run:
+- 인터넷에 연결되어 있어야 유튜브 영상을 불러올 수 있습니다.
+- 처음 실행 시 AI 모델(yolov8n.onnx)을 로드하는 데 약 5~10초 정도 소요될 수 있습니다.
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+<div align="center">
 
-## Learn more
+<img src="https://img.shields.io/badge/Copyright-2026_Muzai_Moratorium._All_Rights_Reserved.-333ab2?style=for-the-badge&labelColor=e0e7ff&logo=github&logoColor=333ab2" />
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+</div>
