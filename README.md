@@ -10,6 +10,13 @@
 
 <img src="https://img.shields.io/badge/%20실행%20방법-333ab2?style=flat-square&logo=render&logoColor=white" />
 
+https://github.com/user-attachments/assets/75d3bf1e-32d8-4289-8765-6090bc23002e
+
+https://github.com/user-attachments/assets/9448d0ed-4942-4dbb-adb0-a10d62a7717c
+
+
+
+
 1. **프로젝트 폴더**로 이동합니다.
 2. `run_yoltube.bat` 파일을 **마우스 오른쪽 버튼으로 클릭하여 실행**하거나 더블 클릭합니다.
 3. 자동으로 필요한 패키지가 설치되고 **웹 브라우저가 열리며** 서비스가 시작됩니다.
