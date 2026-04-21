@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/9448d0ed-4942-4dbb-adb0-a10d62a7717c
 
 <img src="https://img.shields.io/badge/%20도움%20및%20검수-2ea44f?style=flat-square&logo=checkmarx&logoColor=white" />
 
-이 프로젝트는 아래 AI 모델들의 검수를 거쳐 개발되었습니다.
+본 프로젝트의 사용자 인터페이스(UI) 구현을 제외한 핵심 비즈니스 로직 및 알고리즘은 아래 AI 모델들의 검수를 통해 완성도를 높였습니다.
 
 ![Claude 4.5](https://img.shields.io/badge/Claude%204.5%20Opus-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini 3.0](https://img.shields.io/badge/Gemini%203.0%20Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
